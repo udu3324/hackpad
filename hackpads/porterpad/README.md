@@ -28,7 +28,7 @@ Below is a BOM for only one Porterpad. It uses smd components which i choose to 
 
 ## Keyboard BOM
 * 4x Gateron Milky Yellows
-* 4x DSA Keycaps
+* 4x DSA Keycaps (if the encoder caps are black, pls give black keycaps, but if not then white)
 * 3x EC11 Encoder Caps
 * 5x 2.9mm Screws (10mm)
 * 1x Top Chassis 3d Print (mint green preferred)
